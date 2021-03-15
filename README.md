@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @samyadh
+- 👀 I’m interested in Coding, Bikes, Videos
+- 🌱 I’m currently learning movie making, flutter, AI, ML
+- 💞️ I’m looking to collaborate on just_focus
+- 📫 How to reach me samyadh.jain@gmail.com
